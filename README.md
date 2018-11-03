@@ -1,7 +1,7 @@
 # odsc-west-2018-visualization
 ODSC West 2018 - Data Visualization: From Square One to Interactivity
 
-# Resources
+# Visualization Resources
 - ["Storytelling with Data", by Cole Nussbaumer Knaflic](http://www.storytellingwithdata.com/)
 - [Microsoft Design - Inclusive Design](https://www.microsoft.com/design/inclusive/)
 - [CheckMyColours](http://www.checkmycolours.com/)
@@ -13,3 +13,8 @@ ODSC West 2018 - Data Visualization: From Square One to Interactivity
 - [Bokeh, an interactive visualization library in Python](https://bokeh.pydata.org/)
 - [Seaborn, a statistical visualization library in Python](https://seaborn.pydata.org/)
 - [How to Create Animated Graphs in Python](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)
+
+### Feel free to contact me afterward!
+- [LinkedIn](https://www.linkedin.com/in/matthewbrems)
+- [Twitter](https://www.twitter.com/matthewbrems)
+- [Medium](https://www.medium.com/@matthew.w.brems)
